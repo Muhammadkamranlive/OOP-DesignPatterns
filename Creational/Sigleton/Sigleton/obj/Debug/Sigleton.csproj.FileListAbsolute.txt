@@ -1,0 +1,7 @@
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\bin\Debug\Sigleton.exe.config
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\bin\Debug\Sigleton.exe
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\bin\Debug\Sigleton.pdb
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\obj\Debug\Sigleton.csprojAssemblyReference.cache
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\obj\Debug\Sigleton.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\obj\Debug\Sigleton.exe
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\Sigleton\Sigleton\obj\Debug\Sigleton.pdb
