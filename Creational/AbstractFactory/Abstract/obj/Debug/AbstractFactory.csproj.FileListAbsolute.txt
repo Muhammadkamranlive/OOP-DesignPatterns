@@ -1,0 +1,7 @@
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\AbstractFactory.exe.config
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\AbstractFactory.exe
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\AbstractFactory.pdb
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\AbstractFactory.exe
+C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\AbstractFactory.pdb
