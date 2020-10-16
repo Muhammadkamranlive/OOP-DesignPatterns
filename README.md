@@ -32,5 +32,15 @@ Repositório de estudos sobre padrões de projeto, seguindo o curso https://www.
 
   ### Composite - OBJETO
 	- Compor objetos em estruturas de árvores para representar hierarquias de partes inteiras.
+
+  ### Decorator - OBJETO
+	- Anexar responsabilidades adicionais a um objeto dinamicamente. Os decoradores fornecem uma alteranativa flexível à subclasse para estender a funcionalidade.
+
+  ### Facade - OBJETO
+	- Fornecer uma interface unificada para um conjunto de interfaces em um subsistema. O Facade define uma interface de nível superior que facilita o uso do subsistema.
+
+
+
+
 	
 
