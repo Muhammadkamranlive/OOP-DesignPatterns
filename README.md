@@ -2,6 +2,8 @@
 
 Repositório de estudos sobre padrões de projeto, seguindo o curso https://www.udemy.com/course/curso-de-design-patterns-com-c-desenvolvimento-avancado/.
 
+![Image of Design Patterns]
+(https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/mapa.jpg)
 
 ## CREATIONAL
   Design partners referentes a criação de objetos e classes.
