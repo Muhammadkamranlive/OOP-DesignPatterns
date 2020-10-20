@@ -7,4 +7,5 @@ Link for more explanation:
 
 
 Singleton UML diagram:
+
 ![Image of Singleton UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Creational/Sigleton/singleton_pattern_uml_diagram.jpg)
