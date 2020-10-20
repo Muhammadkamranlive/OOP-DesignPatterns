@@ -5,6 +5,9 @@ Repositório de estudos sobre padrões de projeto, seguindo o curso https://www.
 ![Image of Design Patterns]
 (https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/mapa.jpg)
 
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
+
 ## CREATIONAL
   Design partners referentes a criação de objetos e classes.
   ### Singleton - OBJETO
