@@ -8,11 +8,6 @@
 
 ## CREATIONAL
   Design partners referentes a criação de objetos e classes.
-  ### Singleton - OBJETO
-  - Possibilita a instanciação uma única vez de um objeto durante a execução.
-  
-  ### Factory Method - CLASSE
-  - Criar objetos dinâmicamente durante a execução.
 
   ### Abstract Factory - OBJETO
   - Criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada
