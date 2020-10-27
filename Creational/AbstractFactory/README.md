@@ -1,4 +1,4 @@
-# Abstract Factory- Class
+# Abstract Factory - Class
  - Let produce families of related objects without specifying their concrete class;
 
 
