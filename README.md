@@ -6,12 +6,6 @@
 
 ![Image of Design Patterns](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/mapa.jpg)
 
-## CREATIONAL
-  Design partners referentes a criação de objetos e classes.
-
-  ### Abstract Factory - OBJETO
-  - Criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada
-
   ### Builder - OBJETO
   - separação da construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes representações
 
