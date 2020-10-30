@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe.config
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\bin\Debug\Iterator.exe
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\bin\Debug\Iterator.pdb
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\obj\Debug\Iterator.exe
+C:\Projects\OOP-DesignPatterns\Behavioral\Iterator\Iterator\obj\Debug\Iterator.pdb
