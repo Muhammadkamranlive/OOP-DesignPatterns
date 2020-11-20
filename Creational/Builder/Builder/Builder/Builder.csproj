@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{80257D73-E2E0-498F-944C-B54D4ABD84E3}</ProjectGuid>
+    <ProjectGuid>{A8BD7A14-0E71-45B7-8E65-34322AB62DA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Builder</RootNamespace>
     <AssemblyName>Builder</AssemblyName>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Builder\AndroidBuilder.cs" />
-    <Compile Include="Builder\Fabricante.cs" />
-    <Compile Include="Builder\IphoneBuilder.cs" />
-    <Compile Include="Model\Celular.cs" />
-    <Compile Include="Model\IBuild\ICelular.cs" />
+    <Compile Include="HTMLBuilder.cs" />
+    <Compile Include="HTMLElement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
