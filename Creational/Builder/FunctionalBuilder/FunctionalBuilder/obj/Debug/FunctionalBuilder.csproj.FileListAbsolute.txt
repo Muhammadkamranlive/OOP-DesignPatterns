@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\obj\Debug\FunctionalBuilder.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\obj\Debug\FunctionalBuilder.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\bin\Debug\FunctionalBuilder.exe.config
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\bin\Debug\FunctionalBuilder.exe
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\bin\Debug\FunctionalBuilder.pdb
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\obj\Debug\FunctionalBuilder.exe
+C:\Projects\OOP-DesignPatterns\Creational\Builder\FunctionalBuilder\FunctionalBuilder\obj\Debug\FunctionalBuilder.pdb

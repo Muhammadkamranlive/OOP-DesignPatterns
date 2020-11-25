@@ -32,8 +32,7 @@ namespace Builder
 
             //with builder
             var builder = new HTMLBuilder("ul");
-            builder.AddChild("li", "hello");
-            builder.AddChild("li", "world");
+            builder.AddChild("li", "hello").AddChild("li", "world");
             WriteLine(builder.ToString());
             ReadKey();
         }

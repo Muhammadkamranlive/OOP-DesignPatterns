@@ -11,10 +11,11 @@
             root.Name = rootName;
         }
 
-        public void AddChild(string childName, string childText)
+        public HTMLBuilder AddChild(string childName, string childText)
         {
             var e = new HTMLElement(childName, childText);
             root.Elements.Add(e);
+            return this;
         }
 
         public override string ToString()
