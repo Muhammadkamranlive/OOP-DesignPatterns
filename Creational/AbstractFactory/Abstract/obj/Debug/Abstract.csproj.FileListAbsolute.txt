@@ -1,7 +1,0 @@
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\Abstract.exe.config
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\Abstract.exe
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\bin\Debug\Abstract.pdb
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\Abstract.exe
-C:\Users\Estudos\Desktop\Projetos\OOP-DesignPatterns\Creational\AbstractFactory\Abstract\obj\Debug\Abstract.pdb
