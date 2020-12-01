@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\bin\Debug\Exercite.exe.config
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\bin\Debug\Exercite.exe
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\bin\Debug\Exercite.pdb
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\obj\Debug\Exercite.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\obj\Debug\Exercite.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\obj\Debug\Exercite.exe
+C:\Projects\OOP-DesignPatterns\Creational\FactoryMethod\Exercite\Exercite\obj\Debug\Exercite.pdb
