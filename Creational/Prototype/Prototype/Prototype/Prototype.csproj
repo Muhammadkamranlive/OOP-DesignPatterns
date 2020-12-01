@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3906FCDA-2765-4E52-ACED-B15D79352F49}</ProjectGuid>
+    <ProjectGuid>{4252B20A-5C35-4A70-AA5D-8FA22AC3EE60}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Prototype</RootNamespace>
     <AssemblyName>Prototype</AssemblyName>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FuncionarioPermanente.cs" />
-    <Compile Include="FuncionarioTemporario.cs" />
-    <Compile Include="IFuncionario.cs" />
+    <Compile Include="Address.cs" />
+    <Compile Include="IPrototype.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
