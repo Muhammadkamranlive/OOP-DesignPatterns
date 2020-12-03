@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\bin\Debug\PrototypeExercise.exe.config
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\bin\Debug\PrototypeExercise.exe
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\bin\Debug\PrototypeExercise.pdb
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\obj\Debug\PrototypeExercise.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\obj\Debug\PrototypeExercise.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\obj\Debug\PrototypeExercise.exe
+C:\Projects\OOP-DesignPatterns\Creational\Prototype\PrototypeExercise\PrototypeExercise\obj\Debug\PrototypeExercise.pdb
