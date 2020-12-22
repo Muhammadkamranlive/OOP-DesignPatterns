@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE74F69B-7E62-4348-992B-5FEB408E1038}</ProjectGuid>
+    <ProjectGuid>{8227A2A2-6DC5-4368-A983-E88889D01179}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Adapter</RootNamespace>
-    <AssemblyName>Adapter</AssemblyName>
+    <RootNamespace>AdapterGeneric</RootNamespace>
+    <AssemblyName>AdapterGeneric</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IAtaqueInimigo.cs" />
+    <Compile Include="Abstraction\Vector.cs" />
+    <Compile Include="Abstraction\VectorOfFloat.cs" />
+    <Compile Include="Abstraction\VectorOfInt.cs" />
+    <Compile Include="Dimensions.cs" />
+    <Compile Include="Interface\IInteger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RoboInimigo.cs" />
-    <Compile Include="RoboInimigoAdapter.cs" />
-    <Compile Include="TanqueInimigo.cs" />
+    <Compile Include="Vector2i.cs" />
+    <Compile Include="Vector3f.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

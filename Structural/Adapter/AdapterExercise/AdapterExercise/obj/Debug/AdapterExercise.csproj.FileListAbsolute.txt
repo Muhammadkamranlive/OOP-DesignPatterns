@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\bin\Debug\AdapterExercise.exe.config
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\bin\Debug\AdapterExercise.exe
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\bin\Debug\AdapterExercise.pdb
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\obj\Debug\AdapterExercise.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\obj\Debug\AdapterExercise.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\obj\Debug\AdapterExercise.exe
+C:\Projects\OOP-DesignPatterns\Structural\Adapter\AdapterExercise\AdapterExercise\obj\Debug\AdapterExercise.pdb

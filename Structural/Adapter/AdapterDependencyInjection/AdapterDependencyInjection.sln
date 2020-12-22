@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDependencyInjection", "AdapterDependencyInjection\AdapterDependencyInjection.csproj", "{2CF6D0FF-9284-4BBE-9FA2-24203E083927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF6D0FF-9284-4BBE-9FA2-24203E083927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF6D0FF-9284-4BBE-9FA2-24203E083927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF6D0FF-9284-4BBE-9FA2-24203E083927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF6D0FF-9284-4BBE-9FA2-24203E083927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C6B44D-325F-454C-9418-F6E28146452F}
+	EndGlobalSection
+EndGlobal
