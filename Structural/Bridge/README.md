@@ -8,5 +8,5 @@ Link for more explanation:
 
 Abstract Brigde UML diagram:
 
-![Image of Brigde UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Structural/Brigde/brigde_pattern_uml_diagram.png)
+![Image of Brigde UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Structural/Bridge/brigde_pattern_uml_diagram.png)
 
