@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{346C12CB-546A-49A7-839B-B55ECDCC060B}</ProjectGuid>
+    <ProjectGuid>{249A95FC-43CC-4334-A525-B070EB701DEB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bridge</RootNamespace>
-    <AssemblyName>Bridge</AssemblyName>
+    <RootNamespace>BridgeExercise</RootNamespace>
+    <AssemblyName>BridgeExercise</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Culinaria.cs" />
-    <Compile Include="Documentario.cs" />
-    <Compile Include="Filme.cs" />
-    <Compile Include="ICanal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmartTV.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

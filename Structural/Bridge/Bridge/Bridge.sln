@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.30330.147
+VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{346C12CB-546A-49A7-839B-B55ECDCC060B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{E21ED873-F7A9-4024-9655-E5CE19A1226E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{346C12CB-546A-49A7-839B-B55ECDCC060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{346C12CB-546A-49A7-839B-B55ECDCC060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{346C12CB-546A-49A7-839B-B55ECDCC060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{346C12CB-546A-49A7-839B-B55ECDCC060B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21ED873-F7A9-4024-9655-E5CE19A1226E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21ED873-F7A9-4024-9655-E5CE19A1226E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21ED873-F7A9-4024-9655-E5CE19A1226E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21ED873-F7A9-4024-9655-E5CE19A1226E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1835C60D-586F-44BA-9890-C857297C7F54}
+		SolutionGuid = {1BE603ED-8295-4122-9DCE-2C662B361785}
 	EndGlobalSection
 EndGlobal
