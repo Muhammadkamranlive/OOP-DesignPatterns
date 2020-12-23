@@ -6,7 +6,7 @@ Link for more explanation:
 1. https://refactoring.guru/design-patterns/builder (en);
 
 
-Abstract Factory UML diagram:
+Builder UML diagram:
 
 ![Image of Builder UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Creational/Builder/builder_pattern_uml_diagram.png)
 
