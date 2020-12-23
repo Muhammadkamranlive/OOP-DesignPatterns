@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("Composite")]
+[assembly: AssemblyTitle("CompositeNeuralNetwork")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Composite")]
+[assembly: AssemblyProduct("CompositeNeuralNetwork")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("a402a201-518b-4647-b7b1-3cd638eb28ee")]
+[assembly: Guid("719ee025-cf6a-41d1-975d-a823cf788484")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
