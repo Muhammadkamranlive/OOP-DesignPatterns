@@ -1,7 +1,6 @@
 ﻿using System.Linq;
 using System.Collections.Generic;
 using static System.Console;
-using System.Text;
 
 namespace _03_Exercise
 {
