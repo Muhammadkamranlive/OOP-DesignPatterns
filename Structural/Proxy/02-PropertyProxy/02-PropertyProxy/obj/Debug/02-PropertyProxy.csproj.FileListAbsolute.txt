@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\bin\Debug\02-PropertyProxy.exe.config
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\bin\Debug\02-PropertyProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\bin\Debug\02-PropertyProxy.pdb
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\obj\Debug\02-PropertyProxy.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\obj\Debug\02-PropertyProxy.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\obj\Debug\02-PropertyProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\02-PropertyProxy\02-PropertyProxy\obj\Debug\02-PropertyProxy.pdb

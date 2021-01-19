@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\bin\Debug\01-ProtectionProxy.exe.config
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\bin\Debug\01-ProtectionProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\bin\Debug\01-ProtectionProxy.pdb
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\obj\Debug\01-ProtectionProxy.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\obj\Debug\01-ProtectionProxy.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\obj\Debug\01-ProtectionProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\01-ProtectionProxy\01-ProtectionProxy\obj\Debug\01-ProtectionProxy.pdb

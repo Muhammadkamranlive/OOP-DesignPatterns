@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\bin\Debug\03-ValueProxy.exe.config
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\bin\Debug\03-ValueProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\bin\Debug\03-ValueProxy.pdb
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\obj\Debug\03-ValueProxy.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\obj\Debug\03-ValueProxy.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\obj\Debug\03-ValueProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\03-ValueProxy\03-ValueProxy\obj\Debug\03-ValueProxy.pdb
