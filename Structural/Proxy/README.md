@@ -15,3 +15,6 @@ Flyweight UML diagram:
 
 03 - Value proxy
 	Typically constructed over a primitive type for a stronger type. Ex: floats that can only represent prices.
+
+04 - Composite proxy: SoA/AoS
+	Relevant for processing any kind of large volumes of structured data. AoS = array of structures, SoA = structure of arrays
