@@ -1,0 +1,10 @@
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\bin\Debug\06-DynamicProxy.exe.config
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\bin\Debug\06-DynamicProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\bin\Debug\06-DynamicProxy.pdb
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\bin\Debug\Dynamitey.dll
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\bin\Debug\ImpromptuInterface.dll
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\obj\Debug\06-DynamicProxy.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\obj\Debug\06-DynamicProxy.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\obj\Debug\06-DynamicProxy.csproj.CopyComplete
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\obj\Debug\06-DynamicProxy.exe
+C:\Projects\OOP-DesignPatterns\Structural\Proxy\06-DynamicProxy\06-DynamicProxy\obj\Debug\06-DynamicProxy.pdb

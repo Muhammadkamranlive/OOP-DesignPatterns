@@ -18,3 +18,9 @@ Flyweight UML diagram:
 
 04 - Composite proxy: SoA/AoS
 	Relevant for processing any kind of large volumes of structured data. AoS = array of structures, SoA = structure of arrays
+
+05 - Composite proxy: Array Backed Properties
+	A proxy to manipulate a group of properties;
+
+06 - Dynamic proxy
+	Constructed at runtime;
