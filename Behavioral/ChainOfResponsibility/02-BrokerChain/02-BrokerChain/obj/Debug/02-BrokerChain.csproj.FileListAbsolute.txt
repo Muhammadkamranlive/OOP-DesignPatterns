@@ -1,0 +1,7 @@
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\bin\Debug\02-BrokerChain.exe.config
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\bin\Debug\02-BrokerChain.exe
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\bin\Debug\02-BrokerChain.pdb
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\obj\Debug\02-BrokerChain.csprojAssemblyReference.cache
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\obj\Debug\02-BrokerChain.csproj.CoreCompileInputs.cache
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\obj\Debug\02-BrokerChain.exe
+C:\Projects\OOP-DesignPatterns\Behavioral\ChainOfResponsibility\02-BrokerChain\02-BrokerChain\obj\Debug\02-BrokerChain.pdb
