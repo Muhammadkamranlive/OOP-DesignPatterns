@@ -11,6 +11,10 @@ Command UML diagram:
 
 ![Image of Command UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Behavioral/Command/command_pattern_uml_diagram.png)
 
+Composite Command UML diagram:
+
+![Image of Command UML diagram](https://github.com/RomeroGabriel/OOP-DesignPatterns/blob/master/Behavioral/Command/CompositeCommand.png)
+
 
 
 	
