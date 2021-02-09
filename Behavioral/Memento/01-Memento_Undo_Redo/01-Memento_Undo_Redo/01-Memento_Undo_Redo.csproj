@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{00916F63-0832-42BD-8D64-A089ECA5F585}</ProjectGuid>
+    <ProjectGuid>{965E2388-B32A-4441-8F79-FAAE5C93BC91}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Memento</RootNamespace>
-    <AssemblyName>Memento</AssemblyName>
+    <RootNamespace>_01_Memento_Undo_Redo</RootNamespace>
+    <AssemblyName>01-Memento_Undo_Redo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Caretaker.cs" />
+    <Compile Include="BankAccount.cs" />
     <Compile Include="Memento.cs" />
-    <Compile Include="Originator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
