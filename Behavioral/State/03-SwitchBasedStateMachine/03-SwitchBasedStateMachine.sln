@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-SwitchBasedStateMachine", "03-SwitchBasedStateMachine\03-SwitchBasedStateMachine.csproj", "{74B07A6F-FC2F-4CF8-89BC-7EF2BED4ADCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B07A6F-FC2F-4CF8-89BC-7EF2BED4ADCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B07A6F-FC2F-4CF8-89BC-7EF2BED4ADCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B07A6F-FC2F-4CF8-89BC-7EF2BED4ADCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B07A6F-FC2F-4CF8-89BC-7EF2BED4ADCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3334598D-9B23-4FA3-8305-C3337D8E936D}
+	EndGlobalSection
+EndGlobal
